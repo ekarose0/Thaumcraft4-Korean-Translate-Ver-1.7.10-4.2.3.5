@@ -1,194 +1,192 @@
-﻿#Group names
-itemGroup.ThaumicEnergistics = 사우믹 에너지스틱즈[Thaumic Energistics]
-thaumicenergistics.group.essentia.transport = ME 에센시아 입출력 버스
+#Group names
+itemGroup.ThaumicEnergistics=사우믹 에너지스틱즈[Thaumic Energistics]
+thaumicenergistics.group.essentia.transport=ME 에센시아 입출력 버스
 
 #Fluids
-thaumicenergistics.fluid.gaseous = 기체
+thaumicenergistics.fluid.gaseous=기체
 
 #Blocks
-thaumicenergistics.block.essentia.provider.name = 에센시아 공급기
-thaumicenergistics.block.infusion.provider.name = 주입용 공급기
-thaumicenergistics.block.gear.box.name = 철 기어박스
-thaumicenergistics.block.golem.gear.box.name = 사우뮴 기어박스
-thaumicenergistics.block.essentia.cell.workbench.name = 에센시아 셀 워크벤치
-thaumicenergistics.block.arcane.assembler.name = 아케인 조립기
-thaumicenergistics.block.knowledge.inscriber.name = 지식 기입기
-thaumicenergistics.block.essentia.vibration.chamber.name = 에센시아 진동실
-thaumicenergistics.block.distillation.encoder.name = 증류 패턴 인코더
+thaumicenergistics.block.essentia.provider.name=에센시아 공급기
+thaumicenergistics.block.infusion.provider.name=주입용 공급기
+thaumicenergistics.block.gear.box.name=철 기어박스
+thaumicenergistics.block.golem.gear.box.name=사우뮴 기어박스
+thaumicenergistics.block.essentia.cell.workbench.name=에센시아 셀 워크벤치
+thaumicenergistics.block.arcane.assembler.name=아케인 조립기
+thaumicenergistics.block.knowledge.inscriber.name=지식 기입기
+thaumicenergistics.block.essentia.vibration.chamber.name=에센시아 진동실
+thaumicenergistics.block.distillation.encoder.name=증류 패턴 인코더
 
 #Cable parts
-thaumicenergistics.aeparts.essentia.ImportBus.name = 에센시아 입력 버스
-thaumicenergistics.aeparts.essentia.ExportBus.name = 에센시아 출력 버스
-thaumicenergistics.aeparts.essentia.levelemitter.name = 에센시아 레벨 방출기
-thaumicenergistics.aeparts.essentia.StorageBus.name = 에센시아 저장 버스
-thaumicenergistics.aeparts.essentia.terminal.name = 에센시아 단말기
-thaumicenergistics.aeparts.arcane.crafting.terminal.name = 아케인 조합 단말기
-thaumicenergistics.aeparts.vis.interface.name = 비스 충전 중계 인터페이스
-thaumicenergistics.aeparts.essentia.storage.monitor.name = 에센시아 저장 모니터
-thaumicenergistics.aeparts.essentia.conversion.monitor.name = 에센시아 변환 모니터
+thaumicenergistics.aeparts.essentia.ImportBus.name=에센시아 입력 버스
+thaumicenergistics.aeparts.essentia.ExportBus.name=에센시아 출력 버스
+thaumicenergistics.aeparts.essentia.levelemitter.name=에센시아 레벨 방출기
+thaumicenergistics.aeparts.essentia.StorageBus.name=에센시아 저장 버스
+thaumicenergistics.aeparts.essentia.terminal.name=에센시아 단말기
+thaumicenergistics.aeparts.arcane.crafting.terminal.name=아케인 조합 단말기
+thaumicenergistics.aeparts.vis.interface.name=비스 충전 중계 인터페이스
+thaumicenergistics.aeparts.essentia.storage.monitor.name=에센시아 저장 모니터
+thaumicenergistics.aeparts.essentia.conversion.monitor.name=에센시아 변환 모니터
 
 #Items
-thaumicenergistics.item.essentia.cell.1k.name = ME 1k 에센시아 저장소
-thaumicenergistics.item.essentia.cell.4k.name = ME 4k 에센시아 저장소
-thaumicenergistics.item.essentia.cell.16k.name = ME 16k 에센시아 저장소
-thaumicenergistics.item.essentia.cell.64k.name = ME 64k 에센시아 저장소
-thaumicenergistics.item.essentia.cell.creative.name = 크리에이티브 에센시아 저장 셀
-thaumicenergistics.item.storage.casing.name = ME 에센시아 저장소 하우징
-thaumicenergistics.item.storage.component.1k.name = ME 1k 에센시아 저장요소
-thaumicenergistics.item.storage.component.4k.name = ME 4k 에센시아 저장요소
-thaumicenergistics.item.storage.component.16k.name = ME 16k 에센시아 저장요소
-thaumicenergistics.item.storage.component.64k.name = ME 64k 에센시아 저장요소
-thaumicenergistics.item.material.diffusion.core.name = 증류 코어
-thaumicenergistics.item.material.coalescence.core.name = 응결 코어
-thaumicenergistics.item.material.iron.gear.name = 철 톱니바퀴
-thaumicenergistics.item.wireless.essentia.terminal.name = 무선 에센시아 단말기
-thaumicenergistics.item.knowledge.core.name = 지식 코어
-thaumicenergistics.item.focus.aewrench.name = 완드 포커스: AE 렌치
-thaumicenergistics.item.focus.aewrench.disabled.name = 완드 포커스: AE 렌치 - 렌치 모드 비활성화
-thaumicenergistics.item.golem.wifi.backpack.name = 무선 골렘 배낭
+thaumicenergistics.item.essentia.cell.1k.name=ME 1k 에센시아 저장소
+thaumicenergistics.item.essentia.cell.4k.name=ME 4k 에센시아 저장소
+thaumicenergistics.item.essentia.cell.16k.name=ME 16k 에센시아 저장소
+thaumicenergistics.item.essentia.cell.64k.name=ME 64k 에센시아 저장소
+thaumicenergistics.item.essentia.cell.creative.name=크리에이티브 에센시아 저장 셀
+thaumicenergistics.item.storage.casing.name=ME 에센시아 저장소 하우징
+thaumicenergistics.item.storage.component.1k.name=ME 1k 에센시아 저장요소
+thaumicenergistics.item.storage.component.4k.name=ME 4k 에센시아 저장요소
+thaumicenergistics.item.storage.component.16k.name=ME 16k 에센시아 저장요소
+thaumicenergistics.item.storage.component.64k.name=ME 64k 에센시아 저장요소
+thaumicenergistics.item.material.diffusion.core.name=증류 코어
+thaumicenergistics.item.material.coalescence.core.name=응결 코어
+thaumicenergistics.item.material.iron.gear.name=철 톱니바퀴
+thaumicenergistics.item.wireless.essentia.terminal.name=무선 에센시아 단말기
+thaumicenergistics.item.knowledge.core.name=지식 코어
+thaumicenergistics.item.focus.aewrench.name=완드 포커스: AE 렌치
+thaumicenergistics.item.focus.aewrench.disabled.name=완드 포커스: AE 렌치 - 렌치 모드 비활성화
+thaumicenergistics.item.golem.wifi.backpack.name=무선 골렘 배낭
 
 #Tooltips
-thaumicenergistics.tooltip.itemstack.details = 자세한 사항은 §eshift§f 키를 누르세요.
-thaumicenergistics.tooltip.essentia.cell.bytes = %d 바이트가 %d 중에서 사용됨
-thaumicenergistics.tooltip.essentia.cell.types = %d 개의 에센스 저장소가 %d 개중에서 사용됨
-thaumicenergistics.tooltip.button.void = 무효화 허용?
-thaumicenergistics.tooltip.button.void.disabled = 에센시아 무효화 금지
-thaumicenergistics.tooltip.button.void.allowed = 단지가 가득 차면 에센시아 무효화
-thaumicenergistics.tooltip.button.void.note = 무효화 단지에만 적용
-thaumicenergistics.tooltip.button.inscriber.invalid = 유효하지 않은 아케인 레시피
-thaumicenergistics.tooltip.button.inscriber.full = 지식 코어가 가득 참
-thaumicenergistics.tooltip.button.inscriber.delete = 지식 코어에서 패턴 삭제
-thaumicenergistics.tooltip.button.inscriber.save = 지식 코어에 패턴 저장
-thaumicenergistics.tooltip.button.inscriber.missing = 지식 코어 필요
-thaumicenergistics.tooltip.button.swap.armor = 현재 착용 중인 갑옷을 단말기에 저장된 갑옷과 교환합니다.
-thaumicenergistics.tooltip.button.swap.armor.title = 갑옷 교환
-thaumicenergistics.tooltip.arcane.assembler.hasVis = 저장된 비스 포함
+thaumicenergistics.tooltip.itemstack.details=자세한 사항은 §eshift§f 키를 누르세요.
+thaumicenergistics.tooltip.essentia.cell.bytes=%d 바이트가 %d 중에서 사용됨
+thaumicenergistics.tooltip.essentia.cell.types=%d 개의 에센스 저장소가 %d 개중에서 사용됨
+thaumicenergistics.tooltip.button.void=무효화 허용?
+thaumicenergistics.tooltip.button.void.disabled=에센시아 무효화 금지
+thaumicenergistics.tooltip.button.void.allowed=단지가 가득 차면 에센시아 무효화
+thaumicenergistics.tooltip.button.void.note=무효화 단지에만 적용
+thaumicenergistics.tooltip.button.inscriber.invalid=유효하지 않은 아케인 레시피
+thaumicenergistics.tooltip.button.inscriber.full=지식 코어가 가득 참
+thaumicenergistics.tooltip.button.inscriber.delete=지식 코어에서 패턴 삭제
+thaumicenergistics.tooltip.button.inscriber.save=지식 코어에 패턴 저장
+thaumicenergistics.tooltip.button.inscriber.missing=지식 코어 필요
+thaumicenergistics.tooltip.button.swap.armor=현재 착용 중인 갑옷을 단말기에 저장된 갑옷과 교환합니다.
+thaumicenergistics.tooltip.button.swap.armor.title=갑옷 교환
+thaumicenergistics.tooltip.arcane.assembler.hasVis=저장된 비스 포함
 
 
 #GUI
-thaumicenergistics.gui.arcane.crafting.terminal.title = 아케인 조합 단말기
-thaumicenergistics.gui.essentia.cell.title = 에센시아 셀
-thaumicenergistics.gui.selected.amount = 양
-thaumicenergistics.gui.selected.aspect = 위상
-thaumicenergistics.gui.digivis.source.name = 디지센시아 소스
-thaumicenergistics.gui.essentia.cell.workbench.title = 에센시아 셀 워크벤치
-thaumicenergistics.gui.arcane.assembler.title = 아케인 조립기
-thaumicenergistics.gui.vibration.chamber.stored = 저장됨: %d %s
-thaumicenergistics.gui.vibration.chamber.processing = 처리 중: %s
+thaumicenergistics.gui.arcane.crafting.terminal.title=아케인 조합 단말기
+thaumicenergistics.gui.essentia.cell.title=에센시아 셀
+thaumicenergistics.gui.selected.amount=양
+thaumicenergistics.gui.selected.aspect=위상
+thaumicenergistics.gui.digivis.source.name=디지센시아 소스
+thaumicenergistics.gui.essentia.cell.workbench.title=에센시아 셀 워크벤치
+thaumicenergistics.gui.arcane.assembler.title=아케인 조립기
+thaumicenergistics.gui.vibration.chamber.stored=저장됨: %d %s
+thaumicenergistics.gui.vibration.chamber.processing=처리 중: %s
 
 #Research Tab
-tc.research_category.thaumicenergistics = [TE] 사우믹 에너지스틱즈
+tc.research_category.thaumicenergistics=[TE] 사우믹 에너지스틱즈
 
 # Research basics
-tc.research_name.thaumicenergistics.TERESEARCH = [TE] 사우믹 에너지스틱즈
-tc.research_text.thaumicenergistics.TERESEARCH = 정보화 시대의 마도학
-thaumicenergistics.research_page.TERESEARCH.1 = 과학자이자 마도학자로서, 당신은 기술과 마법을 안정하고 생산적인 방식으로 융합해야 한다고 생각했습니다.<BR>당신은 이를 위하여 질량-에너지 변환 원리에 대하여 좀 더 자세히 연구해야 합니다. 이를 가능하게 하는 마법 위상들이 있고, 기술로도 같은 일이 가능할 것입니다.<BR>이는 매우 광범위한 연구를 요구하겠지만, 당신의 시간을 투자할 가치는 충분할 것입니다.
+tc.research_name.thaumicenergistics.TERESEARCH=[TE] 사우믹 에너지스틱즈
+tc.research_text.thaumicenergistics.TERESEARCH=정보화 시대의 마도학
+thaumicenergistics.research_page.TERESEARCH.1=과학자이자 마도학자로서, 당신은 기술과 마법을 안정하고 생산적인 방식으로 융합해야 한다고 생각했습니다.<BR>당신은 이를 위하여 질량-에너지 변환 원리에 대하여 좀 더 자세히 연구해야 합니다. 이를 가능하게 하는 마법 위상들이 있고, 기술로도 같은 일이 가능할 것입니다.<BR>이는 매우 광범위한 연구를 요구하겠지만, 당신의 시간을 투자할 가치는 충분할 것입니다.
 
 # Research conversion cores
-tc.research_name.thaumicenergistics.TECORES = [TE] 디지-센시아
-tc.research_text.thaumicenergistics.TECORES = 디지털 에센시아.
-thaumicenergistics.research_page.TECORES.1 = 에센시아를 증류하는 방법을 알아낸 당신은 이것을 디지털 방식으로 저장할 수 있을 지도 모른다는 생각이 들었습니다.<BR>§l형성 코어§r와 §l소거 코어§r를 검토하면서, 당신은 그것을 조금 변형시킴으로서 에센시아를 디지털 데이터로, 그리고 데이터를 에센시아로 전환하는 것이 가능하다는 사실을 알아챘습니다.<BR>그러나, 특정한 종류의 에센시아가 강한 부식성을 갖고 있기 때문에, 당신은 회로를 수은으로 둘러싸야 했습니다.
-thaumicenergistics.research_page.TECORES.2 = §증류 코어§r<BR>증류된 에센시아의 상대적으로 높은 휘발성과 엄청난 에너지 때문에 에센시아를 디지털화하기 위해서는 먼저 에센시아를 발산시켜야 합니다. 발산된 에센시아를 가두어두기 위해서는 어느 종류의 완충실이 요구되는 것 같습니다.<LINE>§l응결 코어§r응결 코어는 다시 물질로 변환된 에센시아를 발산된 상태에서 원래대로 돌려보냅니다. 완충실 또한 필요합니다.
+tc.research_name.thaumicenergistics.TECORES=[TE] 디지-센시아
+tc.research_text.thaumicenergistics.TECORES=디지털 에센시아.
+thaumicenergistics.research_page.TECORES.1=에센시아를 증류하는 방법을 알아낸 당신은 이것을 디지털 방식으로 저장할 수 있을 지도 모른다는 생각이 들었습니다.<BR>§l형성 코어§r와 §l소거 코어§r를 검토하면서, 당신은 그것을 조금 변형시킴으로서 에센시아를 디지털 데이터로, 그리고 데이터를 에센시아로 전환하는 것이 가능하다는 사실을 알아챘습니다.<BR>그러나, 특정한 종류의 에센시아가 강한 부식성을 갖고 있기 때문에, 당신은 회로를 수은으로 둘러싸야 했습니다.
+thaumicenergistics.research_page.TECORES.2=§증류 코어§r<BR>증류된 에센시아의 상대적으로 높은 휘발성과 엄청난 에너지 때문에 에센시아를 디지털화하기 위해서는 먼저 에센시아를 발산시켜야 합니다. 발산된 에센시아를 가두어두기 위해서는 어느 종류의 완충실이 요구되는 것 같습니다.<LINE>§l응결 코어§r응결 코어는 다시 물질로 변환된 에센시아를 발산된 상태에서 원래대로 돌려보냅니다. 완충실 또한 필요합니다.
 
 # Research storage
-tc.research_name.thaumicenergistics.TESTORAGE = [TE] 디지-센시아 저장소
-tc.research_text.thaumicenergistics.TESTORAGE = 이걸로 에센시아를 저장할 수 있을까?
-thaumicenergistics.research_page.TESTORAGE.1 = 디지털 저장장치들을 살펴본 후 당신은 디지털화된 에센시아를 실제로 저장할 수 있다는 결론을 내렸습니다.<BR>§l세투스 석영§r에 농축된 에센스를 주입함으로서, 디지털화된 상태에서도 에센시아를 활성 상태를 유지한 채로 저장할 수 있는 능력을 가지게 할 수 있습니다.<BR>당신은 석영 자체에 저장 가능한 제한량이 있음에도 불구하고, 에센스의 농도가 높으면 높을수록 더 많은 양의 에센시아를 저장할 수 있다고 결론내렸습니다.
-thaumicenergistics.research_page.TESTORAGE.2 = §l구성 요소§r<BR>디지털 형식으로 에센시아를 저장합니다. 셀 하우징을 사용하여 디지털 네트워크와 인터페이스하지 않으면 작동하지 않습니다.<BR>§l셀 하우징§r<BR>인터페이스를 제공하고 저장 구성 요소를 보호합니다.<BR>§l에센시아 셀 워크벤치§r<BR>셀 워크벤치는 셀을 분할하여 저장할 수 있는 에센시아 유형을 지정할 수 있습니다.
+tc.research_name.thaumicenergistics.TESTORAGE=[TE] 디지-센시아 저장소
+tc.research_text.thaumicenergistics.TESTORAGE=이걸로 에센시아를 저장할 수 있을까?
+thaumicenergistics.research_page.TESTORAGE.1=디지털 저장장치들을 살펴본 후 당신은 디지털화된 에센시아를 실제로 저장할 수 있다는 결론을 내렸습니다.<BR>§l세투스 석영§r에 농축된 에센스를 주입함으로서, 디지털화된 상태에서도 에센시아를 활성 상태를 유지한 채로 저장할 수 있는 능력을 가지게 할 수 있습니다.<BR>당신은 석영 자체에 저장 가능한 제한량이 있음에도 불구하고, 에센스의 농도가 높으면 높을수록 더 많은 양의 에센시아를 저장할 수 있다고 결론내렸습니다.
+thaumicenergistics.research_page.TESTORAGE.2=§l구성 요소§r<BR>디지털 형식으로 에센시아를 저장합니다. 셀 하우징을 사용하여 디지털 네트워크와 인터페이스하지 않으면 작동하지 않습니다.<BR>§l셀 하우징§r<BR>인터페이스를 제공하고 저장 구성 요소를 보호합니다.<BR>§l에센시아 셀 워크벤치§r<BR>셀 워크벤치는 셀을 분할하여 저장할 수 있는 에센시아 유형을 지정할 수 있습니다.
 
 # Research IO
-tc.research_name.thaumicenergistics.TEIO = [TE] 디지-센시아 운송
-tc.research_text.thaumicenergistics.TEIO = 에센시아를 디지털식으로 옮기자!
-thaumicenergistics.research_page.TEIO.1 = 당신은 에센시아를 디지털화하는 방법을 알았고, 이제 그 지식을 사용할 차례입니다.<LINE>§l입력과 출력§r<BR>당신은 에센시아 튜브와 챔버에 적절한 코어를 부착함으로서 에센시아를 저장 네트워크로부터 반출하고 반입할 수 있으며, 필터 튜브를 사용하여 어떤 위상들을 이동시킬 지 결정할 수 있습니다.
-thaumicenergistics.research_page.TEIO.2 = §l저장 버스§r<BR>입력 버스와 출력 버스를 하나의 기기로 통합함으로서, 외부 에센시아 컨테이너를 네트워크 저장소의 일부로 사용할 수 있도록 해 줍니다. 그러한 챔버가 부족하기 때문에, 오직 warded jars에 대해서만 작동할 것입니다.
+tc.research_name.thaumicenergistics.TEIO=[TE] 디지-센시아 운송
+tc.research_text.thaumicenergistics.TEIO=에센시아를 디지털식으로 옮기자!
+thaumicenergistics.research_page.TEIO.1=당신은 에센시아를 디지털화하는 방법을 알았고, 이제 그 지식을 사용할 차례입니다.<LINE>§l입력과 출력§r<BR>당신은 에센시아 튜브와 챔버에 적절한 코어를 부착함으로서 에센시아를 저장 네트워크로부터 반출하고 반입할 수 있으며, 필터 튜브를 사용하여 어떤 위상들을 이동시킬 지 결정할 수 있습니다.
+thaumicenergistics.research_page.TEIO.2=§l저장 버스§r<BR>입력 버스와 출력 버스를 하나의 기기로 통합함으로서, 외부 에센시아 컨테이너를 네트워크 저장소의 일부로 사용할 수 있도록 해 줍니다. 그러한 챔버가 부족하기 때문에, 오직 warded jars에 대해서만 작동할 것입니다.
 
 # Research Arcane crafting terminal
-tc.research_name.thaumicenergistics.TEARCANETERM = [TE]아케인 조합 단말기
-tc.research_text.thaumicenergistics.TEARCANETERM = 마법과§o기술을 이용한 조합§r
-thaumicenergistics.research_page.TEARCANETERM.1 = 당신은 근본적인 양상들(aspects)을 사용하여 §단말기§를 §l아케인 조합대§에 부착시킴으로서 단말기에 아케인 아이템들을 만드는 조합대의 능력을 불어넣을 수 있다는 사실을 깨닫게 되었습니다.
+tc.research_name.thaumicenergistics.TEARCANETERM=[TE]아케인 조합 단말기
+tc.research_text.thaumicenergistics.TEARCANETERM=마법과§o기술을 이용한 조합§r
+thaumicenergistics.research_page.TEARCANETERM.1=당신은 근본적인 양상들(aspects)을 사용하여 §단말기§를 §l아케인 조합대§에 부착시킴으로서 단말기에 아케인 아이템들을 만드는 조합대의 능력을 불어넣을 수 있다는 사실을 깨닫게 되었습니다.
 
 # Research Essentia terminal
-tc.research_name.thaumicenergistics.TEESSTERM = [TE]에센시아 단말기
-tc.research_text.thaumicenergistics.TEESSTERM = 당신이 얼마나 가지고 있는지를 알라.
-thaumicenergistics.research_page.TEESSTERM.1 = §l에센시아 단말기§r는 네트워크 내에 저장된 에센시아를 삽입하거나 추출하는 편리한 방법을 제공합니다.<BR>단지나 병을 배치하면 에센시아가 들어 있는 경우 비워지거나 선택한 위상으로 채워집니다. 레이블도 선택한 위상에 따라 설정하거나 지울 수 있습니다.
-thaumicenergistics.research_page.TEESSTERM.2 = 시간이 부족하고 다룰 위상이 많은 마도사를 위해 표시된 위상을 아이템으로 클릭하면 해당 아이템을 채우거나 비우거나 설정할 수 있습니다.<BR>여러 개의 아이템을 들고 있을 때는 아이템이 인벤토리로 반환됩니다.
-thaumicenergistics.research_page.TEESSTERM.3 = §l에센시아 레벨 방출기§r는 네트워크 내 에센시아 수준이 설정된 양 이하로 떨어지거나 초과할 때 레드스톤 신호를 제공합니다.
-thaumicenergistics.research_page.TEESSTERM.4 = §l에센시아 저장 모니터§r 및 §l에센시아 변환 모니터§r는 네트워크에 있는 위상의 양을 한눈에 볼 수 있도록 해줍니다. 변환 모니터는 또한 네트워크에서 에센시아를 삽입하고 추출할 수 있도록 해줍니다.<BR>렌치로 오른쪽 클릭하면 모니터를 잠그거나 잠금 해제할 수 있습니다.<BR>잠금 해제된 모니터에 레이블이나 채워진 단지나 병으로 오른쪽 클릭하면 표시된 위상이 설정되고, 빈손으로 오른쪽 클릭하면 위상이 지워집니다.<BR>잠긴 변환 모니터를 오른쪽 클릭하면 단지나 병을 채우고, 쉬프트-오른쪽 클릭하면 비웁니다.<BR>쉬프트-더블-오른쪽 클릭하면 인벤토리에 있는 모든 에센시아를 비웁니다.
+tc.research_name.thaumicenergistics.TEESSTERM=[TE]에센시아 단말기
+tc.research_text.thaumicenergistics.TEESSTERM=당신이 얼마나 가지고 있는지를 알라.
+thaumicenergistics.research_page.TEESSTERM.1=§l에센시아 단말기§r는 네트워크 내에 저장된 에센시아를 삽입하거나 추출하는 편리한 방법을 제공합니다.<BR>단지나 병을 배치하면 에센시아가 들어 있는 경우 비워지거나 선택한 위상으로 채워집니다. 레이블도 선택한 위상에 따라 설정하거나 지울 수 있습니다.
+thaumicenergistics.research_page.TEESSTERM.2=시간이 부족하고 다룰 위상이 많은 마도사를 위해 표시된 위상을 아이템으로 클릭하면 해당 아이템을 채우거나 비우거나 설정할 수 있습니다.<BR>여러 개의 아이템을 들고 있을 때는 아이템이 인벤토리로 반환됩니다.
+thaumicenergistics.research_page.TEESSTERM.3=§l에센시아 레벨 방출기§r는 네트워크 내 에센시아 수준이 설정된 양 이하로 떨어지거나 초과할 때 레드스톤 신호를 제공합니다.
+thaumicenergistics.research_page.TEESSTERM.4=§l에센시아 저장 모니터§r 및 §l에센시아 변환 모니터§r는 네트워크에 있는 위상의 양을 한눈에 볼 수 있도록 해줍니다. 변환 모니터는 또한 네트워크에서 에센시아를 삽입하고 추출할 수 있도록 해줍니다.<BR>렌치로 오른쪽 클릭하면 모니터를 잠그거나 잠금 해제할 수 있습니다.<BR>잠금 해제된 모니터에 레이블이나 채워진 단지나 병으로 오른쪽 클릭하면 표시된 위상이 설정되고, 빈손으로 오른쪽 클릭하면 위상이 지워집니다.<BR>잠긴 변환 모니터를 오른쪽 클릭하면 단지나 병을 채우고, 쉬프트-오른쪽 클릭하면 비웁니다.<BR>쉬프트-더블-오른쪽 클릭하면 인벤토리에 있는 모든 에센시아를 비웁니다.
 
 # Research Essentia Provider
-tc.research_name.thaumicenergistics.TEESSPROV = 에센시아 공급기
-tc.research_text.thaumicenergistics.TEESSPROV = 요구하면 반드시 받을 것이다.
-thaumicenergistics.research_page.TEESSPROV.1 = 입력 및 출력 버스가 다양한 작업에 유용하지만, 복잡한 연금술 구조체와 인터페이스할 유연성이 부족합니다. 이 한계를 극복하기 위해 네트워크에서 직접 에센시아를 요청할 수 있는 장치를 만들었습니다.<BR>§l에센시아 공급기§r를 사용하는 것은 간단한 작업이 될 것입니다. 네트워크와 구조체 모두에 연결하면 나머지는 자동으로 처리됩니다.<BR>에센시아 버퍼처럼 작은 흡입력(8)을 가지고 있습니다.
+tc.research_name.thaumicenergistics.TEESSPROV=에센시아 공급기
+tc.research_text.thaumicenergistics.TEESSPROV=요구하면 반드시 받을 것이다.
+thaumicenergistics.research_page.TEESSPROV.1=입력 및 출력 버스가 다양한 작업에 유용하지만, 복잡한 연금술 구조체와 인터페이스할 유연성이 부족합니다. 이 한계를 극복하기 위해 네트워크에서 직접 에센시아를 요청할 수 있는 장치를 만들었습니다.<BR>§l에센시아 공급기§r를 사용하는 것은 간단한 작업이 될 것입니다. 네트워크와 구조체 모두에 연결하면 나머지는 자동으로 처리됩니다.<BR>에센시아 버퍼처럼 작은 흡입력(8)을 가지고 있습니다.
 
 # Research Infusion Provider
-tc.research_name.thaumicenergistics.TEINFPROV = 주입용 공급기
-tc.research_text.thaumicenergistics.TEINFPROV = 이제 더 이상 주입(Infusion)은 어렵지 않다!
-thaumicenergistics.research_page.TEINFPROV.1 = 에센시아 주입 과정을 연구한 결과, 디지털 센시아와 에센시아를 주입에 사용할 수 있도록 즉시 변환하는 방법을 발견했습니다.<BR>§l주입용 공급기§r를 마법 장치 근처에 배치하면 장치는 마치 차폐된 단지처럼 네트워크에서 직접 에센시아를 끌어올 수 있습니다.<BR>이는 주입 제단에 매우 유용할 수 있습니다.
+tc.research_name.thaumicenergistics.TEINFPROV=주입용 공급기
+tc.research_text.thaumicenergistics.TEINFPROV=이제 더 이상 주입(Infusion)은 어렵지 않다!
+thaumicenergistics.research_page.TEINFPROV.1=에센시아 주입 과정을 연구한 결과, 디지털 센시아와 에센시아를 주입에 사용할 수 있도록 즉시 변환하는 방법을 발견했습니다.<BR>§l주입용 공급기§r를 마법 장치 근처에 배치하면 장치는 마치 차폐된 단지처럼 네트워크에서 직접 에센시아를 끌어올 수 있습니다.<BR>이는 주입 제단에 매우 유용할 수 있습니다.
 
 # Research Vis Interface
-tc.research_name.thaumicenergistics.TEVISINT = 비스 중계 인터페이스
-tc.research_text.thaumicenergistics.TEVISINT = 디지털방식의 비스 사용
-thaumicenergistics.research_page.TEVISINT.1 = 비스 전력 네트워크를 발견한 후, 디지털 시스템을 이 네트워크에 연결하는 방법을 모색하고 있습니다.<BR>비스 중계 네트워크를 통해 비스가 흐르는 방식을 관찰한 결과, 비스를 활용할 디지털 장치를 만들 수 있을 것이라고 믿습니다. 디지털 네트워크의 동등-간 통신 기능을 활용하여 비스를 가져오고, 터널링하고, 디지털 장치에서 사용할 수 있습니다.<BR>그러나 비스를 저장하려면 더 많은 연구가 필요합니다.
-thaumicenergistics.research_page.TEVISINT.2 = §l비스 중계 인터페이스§r를 사용하려면 디지털 네트워크에 연결하고 비스 중계를 그 위에 배치하세요. 중계의 베이스는 인터페이스에 맞닿아야 합니다.<BR>장치가 비스를 받으려면 인터페이스와 연결되어 있어야 합니다. 다른 장치를 인터페이스에 연결하려면 §l메모리 카드§r를 사용해야 합니다. 각 장치는 하나의 인터페이스와만 연결될 수 있습니다.<BR>인터페이스에서 메모리 카드로 쉬프트 오른쪽 클릭한 다음 장치에 오른쪽 클릭하여 링크를 만듭니다.<BR>빈 메모리 카드로 다른 장치에 오른쪽 클릭하면 링크가 제거됩니다.
-thaumicenergistics.research_page.TEVISINT.3 = §l링크§r<LINE>§l비스 중계 인터페이스§r. P2P 비스 터널을 구성합니다.<BR>§l아케인 조합 단말기§r. ACT의 완드를 충전합니다.<BR>§l아케인 조립기§r. 비스 저장소를 채워 조합에 사용합니다.
+tc.research_name.thaumicenergistics.TEVISINT=비스 중계 인터페이스
+tc.research_text.thaumicenergistics.TEVISINT=디지털방식의 비스 사용
+thaumicenergistics.research_page.TEVISINT.1=비스 전력 네트워크를 발견한 후, 디지털 시스템을 이 네트워크에 연결하는 방법을 모색하고 있습니다.<BR>비스 중계 네트워크를 통해 비스가 흐르는 방식을 관찰한 결과, 비스를 활용할 디지털 장치를 만들 수 있을 것이라고 믿습니다. 디지털 네트워크의 동등-간 통신 기능을 활용하여 비스를 가져오고, 터널링하고, 디지털 장치에서 사용할 수 있습니다.<BR>그러나 비스를 저장하려면 더 많은 연구가 필요합니다.
+thaumicenergistics.research_page.TEVISINT.2=§l비스 중계 인터페이스§r를 사용하려면 디지털 네트워크에 연결하고 비스 중계를 그 위에 배치하세요. 중계의 베이스는 인터페이스에 맞닿아야 합니다.<BR>장치가 비스를 받으려면 인터페이스와 연결되어 있어야 합니다. 다른 장치를 인터페이스에 연결하려면 §l메모리 카드§r를 사용해야 합니다. 각 장치는 하나의 인터페이스와만 연결될 수 있습니다.<BR>인터페이스에서 메모리 카드로 쉬프트 오른쪽 클릭한 다음 장치에 오른쪽 클릭하여 링크를 만듭니다.<BR>빈 메모리 카드로 다른 장치에 오른쪽 클릭하면 링크가 제거됩니다.
+thaumicenergistics.research_page.TEVISINT.3=§l링크§r<LINE>§l비스 중계 인터페이스§r. P2P 비스 터널을 구성합니다.<BR>§l아케인 조합 단말기§r. ACT의 완드를 충전합니다.<BR>§l아케인 조립기§r. 비스 저장소를 채워 조합에 사용합니다.
 
 # Research Iron Gear Box
-tc.research_name.thaumicenergistics.TEIRONGEARBOX = 철 기어박스
-tc.research_text.thaumicenergistics.TEIRONGEARBOX = 한 번에 한 바퀴씩
-thaumicenergistics.research_page.TEIRONGEARBOX.1 = §l목재 크랭크§r를 사용한 경험으로, 이것을 개선할 수 있을까 생각하게 되었습니다.<BR>기어를 박스에 설정하여 어느 면을 돌리든 모든 면이 돌도록 하는 방법을 고안했습니다. 그러나 나무보다 강한 재료가 필요하므로 §l철 톱니바퀴§r를 만들었습니다.<BR>§l철 기어박스§r를 사용하면 여러 장치를 동시에 크랭크할 수 있습니다. 장치의 입력 면이 기어박스를 향하도록 배치해야 합니다.
-thaumicenergistics.research_page.TEIRONGEARBOX.2 = 두 분쇄기와 충전기 같은 여러 장치를 크랭크할 때, 크랭크 파워가 현재 크랭크할 수 있는 모든 장치에 고르게 분배됩니다.<BR>기어박스의 또 다른 장점은 여러 사람이 동시에 사용할 수 있다는 것입니다. 기어박스를 크랭크하는 각 사람은 크랭크 출력에 기여합니다.<BR>이제 누군가 하루 종일 서서 이것을 크랭크해주면 좋을 텐데...
+tc.research_name.thaumicenergistics.TEIRONGEARBOX=철 기어박스
+tc.research_text.thaumicenergistics.TEIRONGEARBOX=한 번에 한 바퀴씩
+thaumicenergistics.research_page.TEIRONGEARBOX.1=§l목재 크랭크§r를 사용한 경험으로, 이것을 개선할 수 있을까 생각하게 되었습니다.<BR>기어를 박스에 설정하여 어느 면을 돌리든 모든 면이 돌도록 하는 방법을 고안했습니다. 그러나 나무보다 강한 재료가 필요하므로 §l철 톱니바퀴§r를 만들었습니다.<BR>§l철 기어박스§r를 사용하면 여러 장치를 동시에 크랭크할 수 있습니다. 장치의 입력 면이 기어박스를 향하도록 배치해야 합니다.
+thaumicenergistics.research_page.TEIRONGEARBOX.2=두 분쇄기와 충전기 같은 여러 장치를 크랭크할 때, 크랭크 파워가 현재 크랭크할 수 있는 모든 장치에 고르게 분배됩니다.<BR>기어박스의 또 다른 장점은 여러 사람이 동시에 사용할 수 있다는 것입니다. 기어박스를 크랭크하는 각 사람은 크랭크 출력에 기여합니다.<BR>이제 누군가 하루 종일 서서 이것을 크랭크해주면 좋을 텐데...
 
 # Research Thaumium Gear Box
-tc.research_name.thaumicenergistics.TETHAUMGBOX = 사우뮴 기어박스
-tc.research_text.thaumicenergistics.TETHAUMGBOX = 작은 노동력
-thaumicenergistics.research_page.TETHAUMGBOX.1 = 골렘이 대신 오른쪽 클릭을 할 수 있게 되면, 기어박스를 골렘에게 맞게 업데이트할 시간입니다. 약간의 금속과 마법을 더하여 §l철 기어박스§r를 개조하고 §l사우뮴 기어박스§r를 만들었습니다.<BR>재설계된 모델은 §l사용 코어§r를 가진 골렘이 기어박스를 크랭크할 수 있도록 합니다.
+tc.research_name.thaumicenergistics.TETHAUMGBOX=사우뮴 기어박스
+tc.research_text.thaumicenergistics.TETHAUMGBOX=작은 노동력
+thaumicenergistics.research_page.TETHAUMGBOX.1=골렘이 대신 오른쪽 클릭을 할 수 있게 되면, 기어박스를 골렘에게 맞게 업데이트할 시간입니다. 약간의 금속과 마법을 더하여 §l철 기어박스§r를 개조하고 §l사우뮴 기어박스§r를 만들었습니다.<BR>재설계된 모델은 §l사용 코어§r를 가진 골렘이 기어박스를 크랭크할 수 있도록 합니다.
 
 # Research Certus Quartz Duplication
-tc.research_name.thaumicenergistics.TECERTUSDUPE = 석영 복제
-tc.research_text.thaumicenergistics.TECERTUSDUPE = 불순물 그대로
-thaumicenergistics.research_page.TECERTUSDUPE.1 = 이제 §l세투스 석영 크리스탈§r과 §l네더 석영§r을 연금술적으로 복제할 수 있습니다.
+tc.research_name.thaumicenergistics.TECERTUSDUPE=석영 복제
+tc.research_text.thaumicenergistics.TECERTUSDUPE=불순물 그대로
+thaumicenergistics.research_page.TECERTUSDUPE.1=이제 §l세투스 석영 크리스탈§r과 §l네더 석영§r을 연금술적으로 복제할 수 있습니다.
 
 # Research Knowledge Inscriber + Core
-tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER = 지식 기입
-tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER = 마법 패턴
-thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1 = §l아케인 조립기§r가 완성되면, 그것이 조립할 항목을 가르치는 방법이 필요합니다.<BR>§l지식 코어§r를 고안하여 마법 레시피를 저장할 수 있는 장치를 만들었습니다. 이 코어는 패턴 저장소 역할을 하여 조립기에 아이템을 만드는 방법을 지시합니다.<BR>레시피 패턴을 코어에 인코딩하려면 §l지식 기입기§r를 사용해야 합니다.
-thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2 = §l지식 기입기§r 사용 방법<BR>먼저 §l지식 코어§r을 오른쪽 상단 슬롯에 넣습니다. 다음으로 제작 그리드를 사용하여 아이템의 레시피를 설정합니다. 레시피에 필요한 지식(연구)이 있으면 결과 아이템이 표시됩니다. 저장 버튼을 누르면 패턴이 코어에 기입됩니다. 완성된 제품은 저장된 패턴 영역에 표시됩니다.<BR>코어에서 기입된 레시피를 제거하려면 먼저 저장된 패턴 영역에서 패턴을 선택합니다. 선택된 패턴의 레시피가 제작 영역에 표시됩니다. 마지막으로 삭제 버튼을 클릭하면 패턴이 코어에서 제거됩니다.
+tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=지식 기입
+tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER=마법 패턴
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=§l아케인 조립기§r가 완성되면, 그것이 조립할 항목을 가르치는 방법이 필요합니다.<BR>§l지식 코어§r를 고안하여 마법 레시피를 저장할 수 있는 장치를 만들었습니다. 이 코어는 패턴 저장소 역할을 하여 조립기에 아이템을 만드는 방법을 지시합니다.<BR>레시피 패턴을 코어에 인코딩하려면 §l지식 기입기§r를 사용해야 합니다.
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2=§l지식 기입기§r 사용 방법<BR>먼저 §l지식 코어§r을 오른쪽 상단 슬롯에 넣습니다. 다음으로 제작 그리드를 사용하여 아이템의 레시피를 설정합니다. 레시피에 필요한 지식(연구)이 있으면 결과 아이템이 표시됩니다. 저장 버튼을 누르면 패턴이 코어에 기입됩니다. 완성된 제품은 저장된 패턴 영역에 표시됩니다.<BR>코어에서 기입된 레시피를 제거하려면 먼저 저장된 패턴 영역에서 패턴을 선택합니다. 선택된 패턴의 레시피가 제작 영역에 표시됩니다. 마지막으로 삭제 버튼을 클릭하면 패턴이 코어에서 제거됩니다.
 
 # Research Arcane Assembler
-tc.research_name.thaumicenergistics.TEARCANEASSEMBLER = 아케인 조립기
-tc.research_text.thaumicenergistics.TEARCANEASSEMBLER = 마법 분자 조립
-thaumicenergistics.research_page.TEARCANEASSEMBLER.1 = §l분자 조립기§r를 조사하는 동안, 그것을 개조하여 마법 아이템을 생산할 수 있을 것이라는 생각이 들었습니다. 적절한 샤드를 주입하여 조립기가 아이템에 비스를 조절하여 주입할 수 있을 것이라고 결론내렸습니다. 또한 적절한 비스 저장소가 필요하며, §l실버우드 홀수§r가 최적의 선택인 것 같습니다.<BR>참고: 홀수는 조립기에 주입되며, 완전히 충전되어 있어야 합니다.
-thaumicenergistics.research_page.TEARCANEASSEMBLER.2 = §l패턴 저장소§r<BR>조립기 자체는 조합 레시피를 저장하지 않습니다. 패턴 저장소 매체를 고안하기 위해 추가 연구가 필요할 수 있습니다.<BR>§l비스 보충§r<BR>조립기의 내부 비스 저장소를 보충하려면 §l비스 중계 인터페이스§r의 서비스가 필요합니다.<BR>§l가속 카드§r<BR>각 카드는 조합 시간을 20% 감소시키고 필요한 전력을 50% 증가시킵니다.
-thaumicenergistics.research_page.TEARCANEASSEMBLER.3 = §l비스 할인§r<BR>조합 홀수의 포함으로 인해 조립기는 홀수와 동일한 기본 비스 할인을 가집니다. 조립기에 비스 할인 갑옷을 제공하여 할인을 더 향상시킬 수 있습니다. 각 위상의 할인을 GUI에서 위상 위에 마우스를 올려보면 볼 수 있습니다.<BR>조립기는 뒤틀림 기어의 영향을 받지 않습니다. 각 뒤틀림 포인트마다 조립기는 안정성을 유지하기 위해 추가로 15%의 전력을 소모해야 합니다.
+tc.research_name.thaumicenergistics.TEARCANEASSEMBLER=아케인 조립기
+tc.research_text.thaumicenergistics.TEARCANEASSEMBLER=마법 분자 조립
+thaumicenergistics.research_page.TEARCANEASSEMBLER.1=§l분자 조립기§r를 조사하는 동안, 그것을 개조하여 마법 아이템을 생산할 수 있을 것이라는 생각이 들었습니다. 적절한 샤드를 주입하여 조립기가 아이템에 비스를 조절하여 주입할 수 있을 것이라고 결론내렸습니다. 또한 적절한 비스 저장소가 필요하며, §l실버우드 홀수§r가 최적의 선택인 것 같습니다.<BR>참고: 홀수는 조립기에 주입되며, 완전히 충전되어 있어야 합니다.
+thaumicenergistics.research_page.TEARCANEASSEMBLER.2=§l패턴 저장소§r<BR>조립기 자체는 조합 레시피를 저장하지 않습니다. 패턴 저장소 매체를 고안하기 위해 추가 연구가 필요할 수 있습니다.<BR>§l비스 보충§r<BR>조립기의 내부 비스 저장소를 보충하려면 §l비스 중계 인터페이스§r의 서비스가 필요합니다.<BR>§l가속 카드§r<BR>각 카드는 조합 시간을 20% 감소시키고 필요한 전력을 50% 증가시킵니다.
+thaumicenergistics.research_page.TEARCANEASSEMBLER.3=§l비스 할인§r<BR>조합 홀수의 포함으로 인해 조립기는 홀수와 동일한 기본 비스 할인을 가집니다. 조립기에 비스 할인 갑옷을 제공하여 할인을 더 향상시킬 수 있습니다. 각 위상의 할인을 GUI에서 위상 위에 마우스를 올려보면 볼 수 있습니다.<BR>조립기는 뒤틀림 기어의 영향을 받지 않습니다. 각 뒤틀림 포인트마다 조립기는 안정성을 유지하기 위해 추가로 15%의 전력을 소모해야 합니다.
 
 # Research Wrench Focus
-tc.research_name.thaumicenergistics.TEFOCUSWRENCH = 완드 포커스: AE 렌치
-tc.research_text.thaumicenergistics.TEFOCUSWRENCH = 조립 필요
-thaumicenergistics.research_page.TEFOCUSWRENCH.1 = 이 완드 포커스는 AE2 렌치처럼 블록과 기계와 상호 작용합니다.<BR>쉬프트 + 왼쪽 클릭: 회전.<BR>쉬프트 + 오른쪽 클릭: 분해.
+tc.research_name.thaumicenergistics.TEFOCUSWRENCH=완드 포커스: AE 렌치
+tc.research_text.thaumicenergistics.TEFOCUSWRENCH=조립 필요
+thaumicenergistics.research_page.TEFOCUSWRENCH.1=이 완드 포커스는 AE2 렌치처럼 블록과 기계와 상호 작용합니다.<BR>쉬프트 + 왼쪽 클릭: 회전.<BR>쉬프트 + 오른쪽 클릭: 분해.
 
 # Research Essentia Vibration Chamber
-tc.research_name.thaumicenergistics.TEESSVIBCMBR = 진동실
-tc.research_text.thaumicenergistics.TEESSVIBCMBR = 에센시아 전력 네트워크
-thaumicenergistics.research_page.TEESSVIBCMBR.1 = 지금까지 네트워크에 전력을 공급하는 것은 §l진동실§r에서 아이템을 태우는 데 의존했습니다. 이제 상황이 바뀔 것입니다!<BR>에센시아의 에너지를 방출하여 진동실에 연료를 공급하는 간단한 장치를 만들었습니다. 증류된 §l이그니스 또는 포텐시아§r 에센시아를 사용하면 아이템을 단순히 태우는 것보다 더 많은 전력을 생성할 수 있습니다.<BR>원래 진동실과 동일한 조절 동작을 가지고 있음을 유의하세요: 네트워크가 완전히 충전된 경우 반응을 느리게 하여 낭비되는 전력을 최소화하지만, 사용할 에센시아가 있는 한 계속 사용합니다.
-thaumicenergistics.research_page.TEESSVIBCMBR.2 = §l§n운영§r<BR>석탄과 같은 아이템을 분해하여 이그니스나 포텐시아로 변환하면 에센시아에서 더 많은 전력을 생성할 수 있습니다. 초기 추정에 따르면 석탄 에센시아를 처리할 때 대략 350% 증가하며, 석탄을 직접 태우는 것보다 더 많은 전력을 생성합니다. 포텐시아 에센시아가 이그니스보다 훨씬 강력한 것 같습니다.<BR>§lE.V.C.§r는 정기적으로 비어 있을 때 요청하는 에센시아를 교체합니다. 에센시아가 저장되어 있으면 저장된 에센시아만 요청합니다.
-thaumicenergistics.research_page.TEESSVIBCMBR.3 = GUI를 열면 저장된 에센시아의 양과 유형, 현재 처리 중인 것 및 남은 시간을 확인할 수 있습니다. 현재 전력 생산 수준도 표시됩니다.<LINE>§l§n참고 사항§r<BR>§lE.V.C.§r를 에센시아 단말기에 배치하여 저장된 에센시아를 빠르게 채우거나 비울 수 있습니다.<BR>§l에센시아 출력 버스§r, §l에센시아 공급기§r, 및 에센시아 튜브를 사용하여 §lE.V.C.§r를 가득 채울 수 있습니다.
+tc.research_name.thaumicenergistics.TEESSVIBCMBR=진동실
+tc.research_text.thaumicenergistics.TEESSVIBCMBR=에센시아 전력 네트워크
+thaumicenergistics.research_page.TEESSVIBCMBR.1=지금까지 네트워크에 전력을 공급하는 것은 §l진동실§r에서 아이템을 태우는 데 의존했습니다. 이제 상황이 바뀔 것입니다!<BR>에센시아의 에너지를 방출하여 진동실에 연료를 공급하는 간단한 장치를 만들었습니다. 증류된 §l이그니스 또는 포텐시아§r 에센시아를 사용하면 아이템을 단순히 태우는 것보다 더 많은 전력을 생성할 수 있습니다.<BR>원래 진동실과 동일한 조절 동작을 가지고 있음을 유의하세요: 네트워크가 완전히 충전된 경우 반응을 느리게 하여 낭비되는 전력을 최소화하지만, 사용할 에센시아가 있는 한 계속 사용합니다.
+thaumicenergistics.research_page.TEESSVIBCMBR.2=§l§n운영§r<BR>석탄과 같은 아이템을 분해하여 이그니스나 포텐시아로 변환하면 에센시아에서 더 많은 전력을 생성할 수 있습니다. 초기 추정에 따르면 석탄 에센시아를 처리할 때 대략 350% 증가하며, 석탄을 직접 태우는 것보다 더 많은 전력을 생성합니다. 포텐시아 에센시아가 이그니스보다 훨씬 강력한 것 같습니다.<BR>§lE.V.C.§r는 정기적으로 비어 있을 때 요청하는 에센시아를 교체합니다. 에센시아가 저장되어 있으면 저장된 에센시아만 요청합니다.
+thaumicenergistics.research_page.TEESSVIBCMBR.3=GUI를 열면 저장된 에센시아의 양과 유형, 현재 처리 중인 것 및 남은 시간을 확인할 수 있습니다. 현재 전력 생산 수준도 표시됩니다.<LINE>§l§n참고 사항§r<BR>§lE.V.C.§r를 에센시아 단말기에 배치하여 저장된 에센시아를 빠르게 채우거나 비울 수 있습니다.<BR>§l에센시아 출력 버스§r, §l에센시아 공급기§r, 및 에센시아 튜브를 사용하여 §lE.V.C.§r를 가득 채울 수 있습니다.
 
 # Research Distillation Pattern Encoder
-tc.research_name.thaumicenergistics.TEDISTILLATIONPATTERNENCODER = 증류 패턴 인코더
-tc.research_text.thaumicenergistics.TEDISTILLATIONPATTERNENCODER = 더 많은 주문
-thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1 = AE의 자동 조합 시스템의 원리를 확장하여 에센시아 증류 과정을 §l인코딩된 패턴§r에 인코딩하는 방법을 만들었습니다.<BR>아이템을 태우미터 슬롯에 배치하면 아이템의 구성 요소를 알 수 있습니다. 선호하는 위상을 선택한 후 인코딩된 패턴 또는 사용 가능한 빈 패턴에 인코딩할 수 있습니다.
+tc.research_name.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=증류 패턴 인코더
+tc.research_text.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=더 많은 주문
+thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1=AE의 자동 조합 시스템의 원리를 확장하여 에센시아 증류 과정을 §l인코딩된 패턴§r에 인코딩하는 방법을 만들었습니다.<BR>아이템을 태우미터 슬롯에 배치하면 아이템의 구성 요소를 알 수 있습니다. 선호하는 위상을 선택한 후 인코딩된 패턴 또는 사용 가능한 빈 패턴에 인코딩할 수 있습니다.
 
 # Research Golem Wifi Backpack
-tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK = 골렘 와이파이 배낭
-tc.research_text.thaumicenergistics.TEGOLEMWIFIBACKPACK = DigitalGolem423@ae2.net
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1 = 골렘이 수집한 아이템을 상자에 넣어두고 나중에 수집하고 저장하는 것을 보면서, 중간 단계를 생략할 수 있을지 궁금해졌습니다. 네트워크의 무선 기능을 활용할 수 있다는 사실을 깨달았을 때 영감이 떠올랐습니다.<BR>몇 시간 동안 열심히 작업한 후, 골렘에게 네트워크에 액세스할 수 있는 배낭을 만들었습니다. 그러나 배낭에는 몇 가지 제한 사항이 있습니다. 골렘은 네트워크와 통신하기 위해 §l액세스 포인트§r 범위 내에 있어야 합니다. 안테나 위의 플루스 진주가 네트워크와 통신할 수 있는지 여부를 표시합니다.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2 = 네트워크와 통신하려면 전력이 필요하므로 두 개의 니토르에서 전력을 끌어오는 충전기를 장착했습니다. 충전되면 배낭은 짧은 시간 동안만 통신할 수 있으며, 그 후 다시 충전 주기가 시작됩니다. 이 기회를 이용하여 골렘이 네트워크와 상호 작용할 수 있습니다.<BR>배낭을 네트워크에 연결하려면 보안 단말기에 배치하세요.<LINE>골렘 연구가 진행됨에 따라 배낭의 잠재적인 새로운 용도를 여기서 확인하세요.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3 = §n외관§r<BR>외관을 사용하여 배낭에 다양한 스타일을 적용할 수 있습니다: 기본은 사우뮴 블록, 그레이트우드 로그, 벽돌, 건초 더미, 탈로 블록, 살덩어리 블록, 돌, 철 블록, 금 블록, 다이아몬드 블록.<BR>배낭을 착용한 골렘에게 외관을 들고 오른쪽 클릭하여 적용하세요.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER = §n수집 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>§l수집 코어§r를 장착한 골렘은 수집한 아이템을 네트워크에 직접 넣을 수 있습니다. 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 아이템 수가 결정됩니다.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREFILL = §n채우기 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:32:0:16:16:1.0</IMG>§l채우기 코어§r를 장착한 골렘은 네트워크에서 아이템을 추출할 수 있습니다. 골렘의 GUI와 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 아이템 수가 결정됩니다.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.CORELIQUID = §n디캔팅 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:48:0:16:16:1.0</IMG>§l디캔팅 코어§r를 장착한 골렘은 네트워크에서 액체를 추출할 수 있습니다. 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 액체 양이 결정됩니다.<LINE>특별 참고 사항: AE 네트워크에 액체를 저장하려면 Extra Cells 2와 같은 다른 모드의 서비스가 필요합니다.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREALCHEMY = §n연금술 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:64:0:16:16:1.0</IMG>§l연금술 코어§r를 장착한 골렘은 네트워크에서 에센시아를 삽입하고 추출할 수 있습니다. 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 에센시아 양이 결정됩니다.<BR>골렘이 연금술 가마와 같은 에센시아 소스에 배치되면 수집한 에센시아를 넣습니다.<BR>골렘이 에센시아 용기를 채우도록 지시받으면 네트워크에서 에센시아를 추출합니다.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.UPGRADEORDER = §n명령 업그레이드 해제§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>명령 업그레이드를 장착한 골렘은 각 배낭 충전을 더 잘 관리하여 충전당 수행할 수 있는 작업량을 증가시킵니다.
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.ADVANCEDGOLEM = §n고급 골렘§r<IMG>thaumcraft:textures/items/brain.png:0:0:255:255:0.0625</IMG>고급 골렘은 충전당 두 배의 작업을 수행할 수 있습니다.
-
-
+tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK=골렘 와이파이 배낭
+tc.research_text.thaumicenergistics.TEGOLEMWIFIBACKPACK=DigitalGolem423@ae2.net
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=골렘이 수집한 아이템을 상자에 넣어두고 나중에 수집하고 저장하는 것을 보면서, 중간 단계를 생략할 수 있을지 궁금해졌습니다. 네트워크의 무선 기능을 활용할 수 있다는 사실을 깨달았을 때 영감이 떠올랐습니다.<BR>몇 시간 동안 열심히 작업한 후, 골렘에게 네트워크에 액세스할 수 있는 배낭을 만들었습니다. 그러나 배낭에는 몇 가지 제한 사항이 있습니다. 골렘은 네트워크와 통신하기 위해 §l액세스 포인트§r 범위 내에 있어야 합니다. 안테나 위의 플루스 진주가 네트워크와 통신할 수 있는지 여부를 표시합니다.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2=네트워크와 통신하려면 전력이 필요하므로 두 개의 니토르에서 전력을 끌어오는 충전기를 장착했습니다. 충전되면 배낭은 짧은 시간 동안만 통신할 수 있으며, 그 후 다시 충전 주기가 시작됩니다. 이 기회를 이용하여 골렘이 네트워크와 상호 작용할 수 있습니다.<BR>배낭을 네트워크에 연결하려면 보안 단말기에 배치하세요.<LINE>골렘 연구가 진행됨에 따라 배낭의 잠재적인 새로운 용도를 여기서 확인하세요.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3=§n외관§r<BR>외관을 사용하여 배낭에 다양한 스타일을 적용할 수 있습니다: 기본은 사우뮴 블록, 그레이트우드 로그, 벽돌, 건초 더미, 탈로 블록, 살덩어리 블록, 돌, 철 블록, 금 블록, 다이아몬드 블록.<BR>배낭을 착용한 골렘에게 외관을 들고 오른쪽 클릭하여 적용하세요.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER=§n수집 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>§l수집 코어§r를 장착한 골렘은 수집한 아이템을 네트워크에 직접 넣을 수 있습니다. 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 아이템 수가 결정됩니다.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREFILL=§n채우기 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:32:0:16:16:1.0</IMG>§l채우기 코어§r를 장착한 골렘은 네트워크에서 아이템을 추출할 수 있습니다. 골렘의 GUI와 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 아이템 수가 결정됩니다.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.CORELIQUID=§n디캔팅 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:48:0:16:16:1.0</IMG>§l디캔팅 코어§r를 장착한 골렘은 네트워크에서 액체를 추출할 수 있습니다. 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 액체 양이 결정됩니다.<LINE>특별 참고 사항: AE 네트워크에 액체를 저장하려면 Extra Cells 2와 같은 다른 모드의 서비스가 필요합니다.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREALCHEMY=§n연금술 코어 해제§r<IMG>thaumicenergistics:textures/gui/states.png:64:0:16:16:1.0</IMG>§l연금술 코어§r를 장착한 골렘은 네트워크에서 에센시아를 삽입하고 추출할 수 있습니다. 골렘이 각 충전을 얼마나 효율적으로 관리하는지에 따라 최대 에센시아 양이 결정됩니다.<BR>골렘이 연금술 가마와 같은 에센시아 소스에 배치되면 수집한 에센시아를 넣습니다.<BR>골렘이 에센시아 용기를 채우도록 지시받으면 네트워크에서 에센시아를 추출합니다.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.UPGRADEORDER=§n명령 업그레이드 해제§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>명령 업그레이드를 장착한 골렘은 각 배낭 충전을 더 잘 관리하여 충전당 수행할 수 있는 작업량을 증가시킵니다.
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.ADVANCEDGOLEM=§n고급 골렘§r<IMG>thaumcraft:textures/items/brain.png:0:0:255:255:0.0625</IMG>고급 골렘은 충전당 두 배의 작업을 수행할 수 있습니다.
